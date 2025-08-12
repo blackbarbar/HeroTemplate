@@ -1,0 +1,14 @@
+{
+  "$schema": "https://turbo.build/schema.json",
+  "ui": "tui",
+  "tasks": {
+    "web": {
+      "dependsOn": [],
+      "cache": false
+    },
+    "studio": {
+      "dependsOn": ["web"],
+      "cache": false
+    }
+  }
+}
