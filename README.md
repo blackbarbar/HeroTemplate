@@ -1,6 +1,6 @@
 # Next.js & HeroUI Template
 
-This is a template for creating a direct business website using HeroUI.
+Template for starting with a solid up to date basement for new projects.
 
 ## Technologies Used
 
